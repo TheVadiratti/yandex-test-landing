@@ -1,4 +1,4 @@
-@import "./fonts/index.css";
+@import "./src/assets/fonts/index.css";
 
 /*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
 
@@ -246,4 +246,3 @@ textarea {
     page-break-after: avoid;
   }
 }
-
