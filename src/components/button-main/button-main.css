@@ -1,0 +1,13 @@
+.button-main {
+  display: block;
+  width: 100%;
+  padding: 18px;
+  box-sizing: border-box;
+  background-color: var(--black);
+  color: var(--white);
+  border-radius: 66px;
+  text-align: center;
+  font-family: 'Golos Text', sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+}

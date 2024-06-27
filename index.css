@@ -1,4 +1,6 @@
 @import "./src/assets/fonts/index.css";
+@import "src/components/button-main/button-main.css";
+@import "src/components/button-main/_white/button-main_white.css";
 
 /*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
 
@@ -245,4 +247,21 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+/* Developer styles. */
+
+  /* CSS variables. */
+
+:root {
+  --white: #FFFFFF;
+  --white-light-transparent: rgba(255, 255, 255, .9);
+  --black: #1F1F1F;
+  --red: #F54932;
+  --text-light-black: #313131;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', sans-serif;
 }

@@ -1,0 +1,4 @@
+.button-main_white {
+  background-color: var(--white-light-transparent);
+  color: var(--black);
+}
