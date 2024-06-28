@@ -1,4 +1,4 @@
-.button-main-container {
+.main-screen__buttons-container {
   padding-top: 31px;
   display: flex;
   flex-direction: column;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (min-width: 1366px) {
-  .button-main-container {
+  .main-screen__buttons-container {
     padding-top: 40px;
     flex-direction: row;
     gap: 16px;

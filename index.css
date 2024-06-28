@@ -6,7 +6,7 @@
 @import "./src/components/main-screen/__heading/_align-end/main-screen__heading_align-end.css";
 @import "./src/components/main-screen/__description/main-screen__description.css";
 @import "src/components/main-screen/__content-container/main-screen__content-container.css";
-@import "./src/components/button-main-container/button-main-container.css";
+@import "src/components/main-screen/__buttons-container/main-screen__buttons-container.css";
 @import "./src/components/button-main/button-main.css";
 @import "./src/components/button-main/_white/button-main_white.css";
 @import "./src/components/logo/logo.css";
