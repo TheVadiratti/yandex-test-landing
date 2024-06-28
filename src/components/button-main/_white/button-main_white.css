@@ -7,3 +7,10 @@
   background-color: var(--black);
   color: var(--white);
 }
+
+@media screen and (min-width: 1366px) {
+  .button-main_white {
+    background-color: var(--transparent);
+    border: 2px solid var(--black);
+  }
+}

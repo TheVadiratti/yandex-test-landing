@@ -14,3 +14,14 @@
   position: relative;
   left: 1px;
 }
+
+@media screen and (min-width: 1366px) {
+  .main-screen__heading {
+    font-size: 60px;
+    line-height: 66px;
+  }
+
+  .main-screen__heading:first-of-type {
+    margin-top: 62px;
+  }
+}

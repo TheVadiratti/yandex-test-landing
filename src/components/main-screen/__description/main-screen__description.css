@@ -5,3 +5,10 @@
   line-height: 23px;
   margin: 23px 0 0;
 }
+
+@media screen and (min-width: 1366px) {
+  .main-screen__description {
+    margin: 24px 0 0;
+    text-align: center;
+  }
+}

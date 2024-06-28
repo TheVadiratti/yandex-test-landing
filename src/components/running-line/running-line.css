@@ -7,3 +7,9 @@
   background-color: var(--red);
   overflow: hidden;
 }
+
+@media screen and (min-width: 1366px) {
+  .running-line {
+    padding: 18px 0;
+  }
+}

@@ -6,3 +6,9 @@
   position: relative;
   left: 4px;
 }
+
+@media screen and (min-width: 1366px) {
+  .main-screen__heading_align-center {
+    position: static;
+  }
+}

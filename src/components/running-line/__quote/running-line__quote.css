@@ -3,11 +3,18 @@
   color: var(--white);
   text-transform: uppercase;
   font-size: 16px;
-  line-height: 110%;
+  line-height: 18px;
   quotes: none;
 }
 
 .running-line__quote::after {
   content: '\2022';
   margin: 0 12px;
+}
+
+@media screen and (min-width: 1366px) {
+  .running-line__quote {
+    font-size: 22px;
+    line-height: 24px;
+  }
 }
