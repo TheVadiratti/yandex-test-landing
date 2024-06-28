@@ -2,3 +2,8 @@
   background-color: var(--white-light-transparent);
   color: var(--black);
 }
+
+.button-main_white:hover {
+  background-color: var(--black);
+  color: var(--white);
+}
