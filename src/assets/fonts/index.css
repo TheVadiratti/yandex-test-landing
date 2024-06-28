@@ -18,6 +18,12 @@
 
 @font-face {
   font-family: 'Golos Text';
+  font-weight: 500;
+  src: url("./files/GolosText-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Golos Text';
   font-weight: 600;
   src: url("./files/GolosText-SemiBold.ttf") format("truetype");
 }
