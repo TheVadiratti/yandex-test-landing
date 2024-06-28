@@ -1,0 +1,16 @@
+.main-screen__heading {
+  margin: 0;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.main-screen__heading:first-of-type {
+  margin-top: 42px;
+
+  /* Perfect Pixel */
+
+  position: relative;
+  left: 1px;
+}

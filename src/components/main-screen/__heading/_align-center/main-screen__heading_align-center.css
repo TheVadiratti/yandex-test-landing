@@ -1,0 +1,8 @@
+.main-screen__heading_align-center {
+  text-align: center;
+
+  /* Perfect Pixel */
+
+  position: relative;
+  left: 4px;
+}

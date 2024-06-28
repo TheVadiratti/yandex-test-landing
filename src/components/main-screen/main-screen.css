@@ -1,0 +1,8 @@
+.main-screen {
+  min-height: 100vh;
+  padding-top: 18px;
+  box-sizing: border-box;
+  background-image: url("../../assets/img/main-screen.png");
+  background-size: cover;
+  position: relative;
+}
