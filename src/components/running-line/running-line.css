@@ -1,0 +1,9 @@
+.running-line {
+  width: 100%;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--red);
+  overflow: hidden;
+}
