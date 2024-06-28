@@ -1,6 +1,17 @@
 @import "./src/assets/fonts/index.css";
-@import "src/components/button-main/button-main.css";
-@import "src/components/button-main/_white/button-main_white.css";
+@import "./src/components/section/section.css";
+@import "./src/components/main-screen/main-screen.css";
+@import "./src/components/main-screen/__heading/main-screen__heading.css";
+@import "./src/components/main-screen/__heading/_align-center/main-screen__heading_align-center.css";
+@import "./src/components/main-screen/__heading/_align-end/main-screen__heading_align-end.css";
+@import "./src/components/main-screen/__description/main-screen__description.css";
+@import "./src/components/button-main-container/button-main-container.css";
+@import "./src/components/button-main/button-main.css";
+@import "./src/components/button-main/_white/button-main_white.css";
+@import "./src/components/logo/logo.css";
+@import "./src/components/running-line/running-line.css";
+@import "./src/components/running-line/__quotes-container/running-line__quotes-container.css";
+@import "./src/components/running-line/__quote/running-line__quote.css";
 
 /*! HTML5 Boilerplate v9.0.1 | MIT License | https://html5boilerplate.com/ */
 
@@ -258,10 +269,12 @@ textarea {
   --white-light-transparent: rgba(255, 255, 255, .9);
   --black: #1F1F1F;
   --red: #F54932;
+  --yellow: #FBCE51;
   --text-light-black: #313131;
 }
 
 body {
   margin: 0;
+  padding: 0;
   font-family: 'Merriweather', sans-serif;
 }
