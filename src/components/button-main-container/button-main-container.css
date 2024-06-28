@@ -1,0 +1,6 @@
+.button-main-container {
+  padding-top: 31px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
